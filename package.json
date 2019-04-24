@@ -20,12 +20,10 @@
     "ecosystem:cordova",
     "cordova-android"
   ],
-  "engines": [
-    {
-      "name": "cordova",
-      "version": ">=3.0.0"
-    }
-  ],
+  "engines": {
+    "name": "cordova",
+    "version": ">=3.0.0"
+  },
   "author": "Stanley Idesis <stan.idesis@gmail.com>",
   "bugs": {
     "url": "https://github.com/DANISHKIANI/ToastyPlugin/issues"
