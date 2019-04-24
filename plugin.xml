@@ -5,7 +5,6 @@
     <name>ToastyPlugin</name>
 
     <description>An Android Cordova plugin that allows users to display simple Toast messages at the bottom of the screen.</description>
-    <license>MIT</license>
 
     <keywords>cordova,android,toast,message,alert</keywords>
     <repo>https://github.com/DANISHKIANI/ToastyPlugin.git</repo>
